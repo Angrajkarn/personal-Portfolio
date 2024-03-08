@@ -18,7 +18,7 @@ To deploy your personal portfolio website, follow these steps:
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your_username/personal-Portfolio.git
+   git clone https://github.com/AngrajKarn/personal-Portfolio.git
    ```
 
 2. Customize the content:
